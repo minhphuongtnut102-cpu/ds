@@ -1,0 +1,6 @@
+{
+  "name": "Linked List Visualizer",
+  "description": "An interactive tool to visualize and understand Singly Linked List insertion algorithms with step-by-step animations and code highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
